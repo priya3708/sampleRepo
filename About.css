@@ -1,0 +1,16 @@
+h1,h2{
+    color: #00b8d4;
+    color: #333;
+    background-color: #fff;
+    background-size: cover;
+    text-align: center;
+}
+p{
+    text-align: center;
+    align-items: center;
+    margin: 0 100px;
+}
+button{
+    background-color: #00b8d4;
+    color: #fff;
+}
